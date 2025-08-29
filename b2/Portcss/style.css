@@ -1,0 +1,37 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background: linear-gradient(90deg, rgb(12, 0, 78), #000000);
+    color: white;
+    padding: 80px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.8rem;
+    font-weight: bold;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+footer {
+    background: #000763; 
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 40px;
+}
+
+.btn-roxo {
+    background-color: #000763; 
+    color: white; 
+}
